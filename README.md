@@ -1,2 +1,1 @@
-# rsschool-cv
-CV for RSSchool
+# [CV2](https://MalekovAzat.github.io/rsschool-cv/)
